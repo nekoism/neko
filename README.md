@@ -9,7 +9,7 @@ Player menebak di gelas mana air berada.
 ## Cara Menjalankan
 1. Pastikan Python sudah terinstall
 2. Jalankan file:
-   python main.py
+   Python RNG mini game.py
 
 ## Cara Bermain
 - Pilih angka 1 sampai 4
