@@ -35,7 +35,7 @@ Pilih jawaban antara Yes/No dan lihat huruf besar dan kecilnya!!!
         
 print()
 if pilihan_user == lokasi_air :
-    print (f'SELAMAT KAMU MENANG!!! gelas yang berisi air berada di no : {lokasi_air} sedangkan pilihanmu adalah gelas no : {pilihan_user}')
+    print (f'SELAMAT KAMU MENANG!!! gelas yang berisi air berada di no : {lokasi_air} dan pilihanmu adalah gelas no : {pilihan_user}')
         
 elif pilihan_user > 4 :
     print (f'KOCAK!!! Cuman sampe 4 BOSSS!!! Jawaban yang benar ialah di gelas no : {lokasi_air}')
@@ -44,3 +44,4 @@ elif pilihan_user > 4 :
 else :
     print (f'Kamu kalah!!! gelas yang berisi air beradaada di no : {lokasi_air} sedangkan pilihanmu adalah gelas no : {pilihan_user}')
         
+
